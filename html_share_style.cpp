@@ -51,10 +51,7 @@ struct res_html load_html_file(const char* filename)
 }
 
 // 支持大小写字符窜查找
-char* __cdecl stristr(
-    const char* str1,
-    const char* str2
-)
+char*  stristr( const char* str1, const char* str2 )
 {
     char* cp = (char*) str1;
     char* s1, *s2;
