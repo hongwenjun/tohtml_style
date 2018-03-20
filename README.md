@@ -9,3 +9,4 @@ vim -c :TOhtml -c :wqa  mydoc.txt
 ```
 Usage: html_share_style  <file.html>  <from.html>
 ```
+![](https://raw.githubusercontent.com/hongwenjun/tohtml_style/master/usage.webp)
