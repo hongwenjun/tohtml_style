@@ -1,3 +1,5 @@
+蘭雅sRGB 龙芯小本服务器  http://sRGB.vicp.net
+
 # tohtml_style
 1. 先使用 VIM 的 TOhtml 把文本转换成 html
 ```
